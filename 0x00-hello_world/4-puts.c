@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  This is a programme to print
  Programming is like building a multilingual puzzle
