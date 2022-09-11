@@ -1,6 +1,8 @@
 #include<stdio.h>
+
 /**
 *This a programme to print 
+*
 *usint puts function
 */
 int main(void)
