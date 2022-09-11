@@ -3,7 +3,8 @@
 /**
 *main-the programme uses printf function
 *
-*the programme is to print with proper grammar, but the outcome is a piece of ar*Return:0
+*proper grammar, but the outcome is a piece of 
+*Return:0
 */
 int main(void)
 {
