@@ -3,7 +3,7 @@
 /**
 *main-the programme uses printf function
 *
-*proper grammar, but the outcome is a piece of 
+*proper grammar, but the outcome is a piece o
 *Return:0
 */
 int main(void)
