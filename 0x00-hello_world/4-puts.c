@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
-*main - This a programme to print 
+*main 
 *using main function
 *This programme print Programming is like building a multilingual puzzle
 *Return: 0
