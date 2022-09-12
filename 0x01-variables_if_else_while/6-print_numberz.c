@@ -11,4 +11,3 @@ int main(void)
 	printchar('\n');
 return (0);
 }
-
