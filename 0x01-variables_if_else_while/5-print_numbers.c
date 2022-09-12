@@ -1,6 +1,8 @@
 #include<stdio.h>
 /**
 * main - to print numbers
+*Description: using the main function
+* this program prints
 * return o (sucessful)
 */
 int main(void)

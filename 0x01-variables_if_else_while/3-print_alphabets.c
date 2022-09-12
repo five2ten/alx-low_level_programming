@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main print if the number is postive, zerog the main function
-*Return sucessfull
-*this program print
+*main - print if the number is postive, zerog the main function
+*Return - sucessfull
+*this program print alphabet
 */
 int main(void)
 {

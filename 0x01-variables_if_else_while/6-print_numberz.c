@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
  * main - to print numbers
+ *this comment aint necessary so annoying
  * return o (sucessful)
 */
 int main(void)

@@ -3,6 +3,7 @@
  * main- programme to display alphabet
  * Return - always retur sucessful
  * 7-print_tebahpla.c
+ * compilier aacting wired
 */
 int main(void)
 {
