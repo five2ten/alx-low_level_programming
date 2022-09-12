@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
-*main - print if the number is postive, zero, or negatives program*prints "Programming is positive, zero, or negative
+*main - print if the number is postive, zero, or negative
+*Programming is positive, zero, or negative
 *
 * * Return: 0
 *
