@@ -3,7 +3,7 @@
  *main - Prints the alphabet in lowercase, except for q and e
  *Return: Always 0.
 */
-int mai(void)
+int main(void)
 {
 	char letter;
 	for (letter = 'a'; letter <='z'; letter++)
@@ -14,5 +14,4 @@ int mai(void)
 putchar('\n');
 
 Return (0);
-}
-	
+}	
