@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - print if the number is postive, zerog the main function
+*main print if the number is postive, zerog the main function
 *Return sucessfull
 *this program print
 */
