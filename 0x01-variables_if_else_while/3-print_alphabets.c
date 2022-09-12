@@ -3,7 +3,7 @@
  * main - print if the number is postive, zerog the main function
  *
  *this program prints "Programming is positive, zero,
- *Return : 0 
+ * Return : 0
 */
 int main(void)
 {
