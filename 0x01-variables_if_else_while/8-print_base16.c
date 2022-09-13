@@ -15,10 +15,10 @@ for (d = '0'; d <= '9'; d++)
 {
 	putchar(d);
 }
-for (d = 'a'; d = 'f'; d++)
+for (d = 'a'; d <= 'f'; d++)
 {
 	putchar(d);
 }
-putchar9('\n');
+putchar('\n');
 return (0);
 }
