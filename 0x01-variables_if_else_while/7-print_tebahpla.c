@@ -6,6 +6,7 @@
  * compilier aacting wired
 */
 int main(void)
+	/* this is the code body */
 {
 	char letter;
 
