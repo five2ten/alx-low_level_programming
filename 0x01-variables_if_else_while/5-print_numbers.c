@@ -7,7 +7,7 @@
  * Return 0
 */
 int main(void)
-	/* This function print 1 to 10 */
+/* This function print 1 to 10 */
 {
 int i;
 for (i = 0; i < 10; i++)
