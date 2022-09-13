@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main- programme to display alphabet
+ * main-print if the number is postive, zero, or negative
  * Return - always retur sucessful
  * 7-print_tebahpla.c
  * compilier aacting wired

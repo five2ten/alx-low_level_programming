@@ -7,7 +7,7 @@
  *this program prints Programming is positive, zero, or neg
  *Return: 0
  *
- * */
+ */
 int main(void)
 {
 char d;
