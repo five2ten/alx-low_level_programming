@@ -6,9 +6,11 @@
 */
 int main(void)
 {
-	int numbers;
-	for (numbers = 0; numbers < 10; numbers++)
-		putchar((numbers % 10) + '0');
-	printchar('\n');
+int numbers;
+for (numbers = 0; numbers <= 9; numbers++)
+{
+	putchar(numbers)
+}
+printchar('\n');
 return (0);
 }

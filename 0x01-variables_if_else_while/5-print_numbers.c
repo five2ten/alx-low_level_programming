@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- *
- *main - print if the number is postive, zero, or negative
+ 
+ *main - Write a program that prints all single digit numbers of 1o in i
  *
  *Description: using the main function
  *
