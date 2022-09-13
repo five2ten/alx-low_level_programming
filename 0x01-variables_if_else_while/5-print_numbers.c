@@ -1,10 +1,13 @@
 #include<stdio.h>
 /**
-* main - to print numbers
-*Description: using the main function
-* this program prints
-* return o (sucessful)
-*/
+ *
+ *main - print if the number is postive, zero, or negative
+ *
+ *Description: using the main function
+ *
+ *This program prints Programming is positive, zero, or negative
+ * Return 0
+ */
 int main(void)
 {
 int i;
